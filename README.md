@@ -14,5 +14,10 @@ pengambilan foto, dapat dibuat filter carouselnya!
 ![WhatsApp Image 2024-11-04 at 11 51 40_4ed4a64e](https://github.com/user-attachments/assets/3648d5f8-eff4-4643-b868-58f1b6949991)
 
 3. Jelaskan maksud void async pada praktikum 1?
+
    Fungsi main ini diubah menjadi async untuk memungkinkan pemanggilan fungsi await di dalamnya. await digunakan untuk menangani operasi asinkron, khususnya saat           menginisialisasi kamera.
+
+4. Jelaskan fungsi dari anotasi @immutable dan @override ?
+
+Anotasi @immutable menunjukkan bahwa suatu kelas adalah tidak dapat diubah (immutable). Artinya, setelah sebuah objek dari kelas tersebut dibuat, nilai propertinya tidak boleh diubah.
 
