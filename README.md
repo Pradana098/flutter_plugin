@@ -21,3 +21,4 @@ pengambilan foto, dapat dibuat filter carouselnya!
 
 Anotasi @immutable menunjukkan bahwa suatu kelas adalah tidak dapat diubah (immutable). Artinya, setelah sebuah objek dari kelas tersebut dibuat, nilai propertinya tidak boleh diubah.
 
+@override digunakan ketika kita ingin menimpa atau mengubah perilaku metode yang diwarisi dari kelas induk.
